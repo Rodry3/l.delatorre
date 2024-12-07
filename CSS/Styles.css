@@ -151,6 +151,11 @@ form .form-control {
     padding: 50px 0;
 }
 
+.showcase-row-img img {
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 140px;
+}
 .showcase-row-title p.large {
     padding-bottom: 15px;
 }
